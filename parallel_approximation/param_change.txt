@@ -1,0 +1,3 @@
+Delay step \ft\n\dD\n	NMSE for training	NMSE for test	Variance of MZM1 nodes		Variance of MZM2 nodes		Variance of all nodes	cc between twfms	cc between nodes	Difference between twfms	Difference between nodes	Difference between node vectors
+1.000000e+00	2.139411e-02	2.272966e-02	1.863727e-01	2.365632e-01	2.114921e-01	7.959606e-01	8.372259e-01	1.903900e-01	1.804367e-01	1.807316e+00
+2.000000e+00	7.077971e-02	7.878948e-02	1.863706e-01	2.365236e-01	2.114711e-01	7.959482e-01	8.372427e-01	1.903848e-01	1.804279e-01	1.807106e+00

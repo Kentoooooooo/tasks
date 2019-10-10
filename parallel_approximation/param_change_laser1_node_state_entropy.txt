@@ -1,0 +1,3 @@
+Delay time (MZM2) and propagation time (MZM1) \ft\n\d2\n [ms]	0	Ave. of node states entropy	Var. of entropy
+1.000000e-03	8.971515e-01	8.971515e-01	0.000000e+00
+2.000000e-03	8.970927e-01	8.970927e-01	0.000000e+00
